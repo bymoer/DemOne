@@ -1,0 +1,6 @@
+[submodule "DemOneFront"]
+	path = DemOneFront
+	url = https://github.com/bymoer/DemOneFront.git
+[submodule "DemOneBack"]
+	path = DemOneBack
+	url = https://github.com/bymoer/DemOneBack.git
